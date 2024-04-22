@@ -1,0 +1,383 @@
+{
+    "routes": [
+        {
+            "legs": [
+                {
+                    "distanceMeters": 8718,
+                    "duration": "568s",
+                    "staticDuration": "568s",
+                    "polyline": {
+                        "encodedPolyline": "ezwbFvu`gVsEJI?q@BkDHCgAIuF?SAy@G}CC[CMUaAcAsBw@}ACEQ]m@sAc@}@i@iAYm@c@q@EIIs@Jo@LKp@FTDnAdA@@r@j@zAzALJnAlAt@l@j@b@n@@p@j@n@h@~@v@lAbA`AdARRb@f@t@`ARZLRz@xAj@jAh@lAb@fA~@fCTj@hA~CTl@Vr@Vn@d@pAHTx@|BPf@T|@DNb@zBTlBBJH`ABt@Bp@Bf@?^?rA?`@EhAGfAAJKnAEX[nBCPU`AU|@a@pAe@`Bc@vAY`A_@lAW`AYfAKj@GXA@QhAS|AKx@OtBCh@Ct@Az@AnB@nC?|A@dB?pC@vB@lB@vD?xA@`AAbD?~B@pA?bB?~@CxACxAAPEzAGbAGhAM~AMfBOtBYZW~CMnBStHCdAG~AWzBYnBEVGrA?l@Dp@Dj@Hh@V~@Zv@j@~@`@b@\\Xh@\\HDt@ZRDFB`ANp@@^?`ACjBC\\?x@AjACrB?t@AlF?ROP?T?T?`@?t@?v@?f@?r@?p@@hA?rD@pD@v@@bA?t@?f@?~@?d@?r@?n@?p@A`A?x@?x@AhAAtB?fCAjA?lEAz@?R?\\?~@?v@?pBA|@AlAEZCh@EHA`AMXGf@ITE\\Bv@SdDkAv@WNE|@UZGR?pADpC\\x@XJLFPJh@@n@?fBgAB_AB_@?Y@{C?oA?o@?aA?wA?KA]A[TEHIXK@CFeF?{M@gBMeE?k@@EB"
+                    },
+                    "startLocation": {
+                        "latLng": {
+                            "latitude": 37.318912399999995,
+                            "longitude": -121.90572029999998
+                        }
+                    },
+                    "endLocation": {
+                        "latLng": {
+                            "latitude": 37.303317899999996,
+                            "longitude": -121.94139729999999
+                        }
+                    },
+                    "steps": [
+                        {
+                            "distanceMeters": 247,
+                            "staticDuration": "42s",
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 37.318912399999995,
+                                    "longitude": -121.90572029999998
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 37.3211306,
+                                    "longitude": -121.90584799999999
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "DEPART",
+                                "instructions": "Head north on Sunol St toward W Home St\nPartial restricted usage road"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "0.2 mi"
+                                },
+                                "staticDuration": {
+                                    "text": "1 min"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 611,
+                            "staticDuration": "72s",
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 37.3211306,
+                                    "longitude": -121.90584799999999
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 37.3230929,
+                                    "longitude": -121.89968069999999
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "TURN_RIGHT",
+                                "instructions": "Turn right onto Auzerais Ave"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "0.4 mi"
+                                },
+                                "staticDuration": {
+                                    "text": "1 min"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 56,
+                            "staticDuration": "31s",
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 37.3230929,
+                                    "longitude": -121.89968069999999
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 37.323006,
+                                    "longitude": -121.8991157
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "TURN_RIGHT",
+                                "instructions": "Turn right onto Bird Ave."
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "184 ft"
+                                },
+                                "staticDuration": {
+                                    "text": "1 min"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 3409,
+                            "staticDuration": "143s",
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 37.323006,
+                                    "longitude": -121.8991157
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 37.3172814,
+                                    "longitude": -121.9326473
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "RAMP_RIGHT",
+                                "instructions": "Turn right to merge onto I-280 N"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "2.1 mi"
+                                },
+                                "staticDuration": {
+                                    "text": "2 mins"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 2863,
+                            "staticDuration": "106s",
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 37.3172814,
+                                    "longitude": -121.9326473
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 37.2981341,
+                                    "longitude": -121.94037820000001
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "RAMP_RIGHT",
+                                "instructions": "Take exit 5B to merge onto CA-17 S toward Santa Cruz"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "1.8 mi"
+                                },
+                                "staticDuration": {
+                                    "text": "2 mins"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 381,
+                            "staticDuration": "31s",
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 37.2981341,
+                                    "longitude": -121.94037820000001
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 37.2948192,
+                                    "longitude": -121.9397984
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "RAMP_RIGHT",
+                                "instructions": "Take the exit toward E Hamilton Ave"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "0.2 mi"
+                                },
+                                "staticDuration": {
+                                    "text": "1 min"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 72,
+                            "staticDuration": "10s",
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 37.2948192,
+                                    "longitude": -121.9397984
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 37.294365299999996,
+                                    "longitude": -121.9403004
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "RAMP_RIGHT",
+                                "instructions": "Slight right onto the ramp to Downtown/Campbell"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "236 ft"
+                                },
+                                "staticDuration": {
+                                    "text": "1 min"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 68,
+                            "staticDuration": "9s",
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 37.294365299999996,
+                                    "longitude": -121.9403004
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 37.294364099999996,
+                                    "longitude": -121.9410647
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "MERGE",
+                                "instructions": "Merge onto E Hamilton Ave"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "223 ft"
+                                },
+                                "staticDuration": {
+                                    "text": "1 min"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 411,
+                            "staticDuration": "55s",
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 37.294364099999996,
+                                    "longitude": -121.9410647
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 37.2979534,
+                                    "longitude": -121.9413758
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "TURN_RIGHT",
+                                "instructions": "Turn right onto Almarida Dr"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "0.3 mi"
+                                },
+                                "staticDuration": {
+                                    "text": "1 min"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        },
+                        {
+                            "distanceMeters": 600,
+                            "staticDuration": "69s",
+                            "startLocation": {
+                                "latLng": {
+                                    "latitude": 37.2979534,
+                                    "longitude": -121.9413758
+                                }
+                            },
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 37.303317899999996,
+                                    "longitude": -121.94139729999999
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "ROUNDABOUT_RIGHT",
+                                "instructions": "At the traffic circle, take the 1st exit and stay on Almarida Dr\nDestination will be on the right"
+                            },
+                            "localizedValues": {
+                                "distance": {
+                                    "text": "0.4 mi"
+                                },
+                                "staticDuration": {
+                                    "text": "1 min"
+                                }
+                            },
+                            "travelMode": "DRIVE"
+                        }
+                    ],
+                    "localizedValues": {
+                        "distance": {
+                            "text": "5.4 mi"
+                        },
+                        "duration": {
+                            "text": "9 mins"
+                        },
+                        "staticDuration": {
+                            "text": "9 mins"
+                        }
+                    }
+                }
+            ],
+            "distanceMeters": 8718,
+            "duration": "567s",
+            "staticDuration": "567s",
+            "polyline": {
+                "encodedPolyline": "ezwbFvu`gVsEJI?q@BkDHCgAIuF?SAy@G}CC[CMUaAcAsBw@}ACEQ]m@sAc@}@i@iAYm@c@q@EIIs@Jo@LKp@FTDnAdA@@r@j@zAzALJnAlAt@l@j@b@n@@p@j@n@h@~@v@lAbA`AdARRb@f@t@`ARZLRz@xAj@jAh@lAb@fA~@fCTj@hA~CTl@Vr@Vn@d@pAHTx@|BPf@T|@DNb@zBTlBBJH`ABt@Bp@Bf@?^?rA?`@EhAGfAAJKnAEX[nBCPU`AU|@a@pAe@`Bc@vAY`A_@lAW`AYfAKj@GXA@QhAS|AKx@OtBCh@Ct@Az@AnB@nC?|A@dB?pC@vB@lB@vD?xA@`AAbD?~B@pA?bB?~@CxACxAAPEzAGbAGhAM~AMfBOtBYZW~CMnBStHCdAG~AWzBYnBEVGrA?l@Dp@Dj@Hh@V~@Zv@j@~@`@b@\\Xh@\\HDt@ZRDFB`ANp@@^?`ACjBC\\?x@AjACrB?t@AlF?ROP?T?T?`@?t@?v@?f@?r@?p@@hA?rD@pD@v@@bA?t@?f@?~@?d@?r@?n@?p@A`A?x@?x@AhAAtB?fCAjA?lEAz@?R?\\?~@?v@?pBA|@AlAEZCh@EHA`AMXGf@ITE\\Bv@SdDkAv@WNE|@UZGR?pADpC\\x@XJLFPJh@@n@?fBgAB_AB_@?Y@{C?oA?o@?aA?wA?KA]A[TEHIXK@CFeF?{M@gBMeE?k@@EB"
+            },
+            "description": "I-280 N",
+            "warnings": [
+                "This route includes a highway."
+            ],
+            "viewport": {
+                "low": {
+                    "latitude": 37.294364099999996,
+                    "longitude": -121.94144030000001
+                },
+                "high": {
+                    "latitude": 37.3231439,
+                    "longitude": -121.8991157
+                }
+            },
+            "localizedValues": {
+                "distance": {
+                    "text": "5.4 mi"
+                },
+                "duration": {
+                    "text": "9 mins"
+                },
+                "staticDuration": {
+                    "text": "9 mins"
+                }
+            },
+            "routeLabels": [
+                "DEFAULT_ROUTE"
+            ]
+        }
+    ],
+    "geocodingResults": {
+        "origin": {
+            "geocoderStatus": {},
+            "type": [
+                "establishment",
+                "point_of_interest"
+            ],
+            "placeId": "ChIJsQIdRVDLj4ARdGbCFFiB-cM"
+        },
+        "destination": {
+            "geocoderStatus": {},
+            "type": [
+                "establishment",
+                "point_of_interest"
+            ],
+            "placeId": "ChIJHR6onDo1joARBbNPhsHD-8c"
+        }
+    }
+}
