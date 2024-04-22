@@ -1,0 +1,307 @@
+{
+    "geocoded_waypoints": [
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJsQIdRVDLj4ARdGbCFFiB-cM",
+            "types": [
+                "establishment",
+                "point_of_interest"
+            ]
+        },
+        {
+            "geocoder_status": "OK",
+            "place_id": "ChIJHR6onDo1joARBbNPhsHD-8c",
+            "types": [
+                "establishment",
+                "point_of_interest"
+            ]
+        }
+    ],
+    "routes": [
+        {
+            "bounds": {
+                "northeast": {
+                    "lat": 37.3231439,
+                    "lng": -121.8991157
+                },
+                "southwest": {
+                    "lat": 37.2943641,
+                    "lng": -121.9414403
+                }
+            },
+            "copyrights": "Map data \u00a92024 Google",
+            "legs": [
+                {
+                    "distance": {
+                        "text": "5.4 mi",
+                        "value": 8718
+                    },
+                    "duration": {
+                        "text": "9 mins",
+                        "value": 568
+                    },
+                    "end_address": "San Jose, CA 95128, USA",
+                    "end_location": {
+                        "lat": 37.3033179,
+                        "lng": -121.9413973
+                    },
+                    "start_address": "550 Sunol St, San Jose, CA 95126, USA",
+                    "start_location": {
+                        "lat": 37.31891239999999,
+                        "lng": -121.9057203
+                    },
+                    "steps": [
+                        {
+                            "distance": {
+                                "text": "0.2 mi",
+                                "value": 247
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 42
+                            },
+                            "end_location": {
+                                "lat": 37.3211306,
+                                "lng": -121.905848
+                            },
+                            "html_instructions": "Head <b>north</b> on <b>Sunol St</b> toward <b>W Home St</b><div style=\"font-size:0.9em\">Partial restricted usage road</div>",
+                            "polyline": {
+                                "points": "ezwbFvu`gVoCFcABI?q@BkDH"
+                            },
+                            "start_location": {
+                                "lat": 37.31891239999999,
+                                "lng": -121.9057203
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.4 mi",
+                                "value": 611
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 72
+                            },
+                            "end_location": {
+                                "lat": 37.3230929,
+                                "lng": -121.8996807
+                            },
+                            "html_instructions": "Turn <b>right</b> onto <b>Auzerais Ave</b>",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "ahxbFpv`gVCgAEyDC{@?SAy@Ae@CuAAa@C[CMAMCKEOIWcAsBk@gAKUCEQ]m@sASc@OYEIc@_AYm@c@q@EI"
+                            },
+                            "start_location": {
+                                "lat": 37.3211306,
+                                "lng": -121.905848
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "184 ft",
+                                "value": 56
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 31
+                            },
+                            "end_location": {
+                                "lat": 37.323006,
+                                "lng": -121.8991157
+                            },
+                            "html_instructions": "Turn <b>right</b> onto <b>Bird Ave.</b>",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "itxbF~o_gVGa@AI?G?EBIF_@LK"
+                            },
+                            "start_location": {
+                                "lat": 37.3230929,
+                                "lng": -121.8996807
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "2.1 mi",
+                                "value": 3409
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 143
+                            },
+                            "end_location": {
+                                "lat": 37.3172814,
+                                "lng": -121.9326473
+                            },
+                            "html_instructions": "Turn <b>right</b> to merge onto <b>I-280 N</b>",
+                            "maneuver": "ramp-right",
+                            "polyline": {
+                                "points": "ysxbFnl_gVN@H@D?D?D@D@TDRRVRb@\\@@r@j@h@h@p@p@LJj@j@ZXFFVT\\VDBb@^@?n@@p@j@n@h@\\XVRHHHFTRRNXVx@x@FJHHHHX\\DBBD`@f@RXRZLRXf@`@p@j@jAJRN\\LZJTDLHTFLDLJVNb@L\\N^Tj@hA~CTl@JXJXN^FNHTL^LZHTPb@L^LZJ\\Pf@BLFPH\\DNHZF^H\\F`@FZD^@FBR@TBJB\\@PBP?JBh@Bp@Bf@?^@ZAZ?Z?`@Ch@A^C`@Cd@AJANC\\E`@EXGd@G^G\\CJCPI\\Kb@U|@a@pAe@`Bc@vAY`A_@lAW`AYfAAJI^GXA@G`@G^AFEVGf@E\\E\\EZEl@IfACh@?HCj@?XA`@A^?`@?b@?H?V?d@?n@@`@?p@?^?J@tA?N?p@?\\?`@?^@vB?x@@r@@vD?xA?r@@LAbD?H?`@?`A?P?N@`A?^?`@?`@?\\?`@CxAAl@AZ?NAPAd@Cb@?PAREn@?FC`@C^M~AMfBKjACh@"
+                            },
+                            "start_location": {
+                                "lat": 37.323006,
+                                "lng": -121.8991157
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "1.8 mi",
+                                "value": 2863
+                            },
+                            "duration": {
+                                "text": "2 mins",
+                                "value": 106
+                            },
+                            "end_location": {
+                                "lat": 37.2981341,
+                                "lng": -121.9403782
+                            },
+                            "html_instructions": "Take exit <b>5B</b> to merge onto <b>CA-17 S</b> toward <b>Santa Cruz</b>",
+                            "maneuver": "ramp-right",
+                            "polyline": {
+                                "points": "_pwbF`~egVWX?@A?ANI~@KnAALC\\GbAEbAAV?J?FCbAAXEfBA\\Af@Ah@?@?DATCV?D?@?@AHANGb@ADEXCREXERGd@EZEVC^AJAP?T?X?H?H@T@R?F@?@N@J@N?@BLBL@JBLFRBHFRDNFLDJFLHNDHDF@BFHJNJLNNDDDDJHJHFDHFJFJFHDRHB@JFPFRDFBXDLBD@PB@?N@P?N?^?TAj@A|@CH?b@?L?N?x@AjACrB?t@AdA@n@?V?tA?HADAFGDEP?T?T?`@?^?T?N?f@?f@?T@\\AX@V?l@?Z?jC@f@?d@?jC@v@@`@?`@?T?^?R?R?T?h@?d@?r@?n@?PA^?T?X?P?Z?V?D?x@Af@?ZAD?R?r@?Z?P?D?H?L?t@AZ?V?~@?J?L?X?ZA^?X?\\?p@?D?t@?R?X?B?p@AL@f@?N?H?XAZ?p@?t@AF?PAr@CF?ZCh@EHARCb@GHAXGf@ITE"
+                            },
+                            "start_location": {
+                                "lat": 37.3172814,
+                                "lng": -121.9326473
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.2 mi",
+                                "value": 381
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 31
+                            },
+                            "end_location": {
+                                "lat": 37.2948192,
+                                "lng": -121.9397984
+                            },
+                            "html_instructions": "Take the exit toward <b>E Hamilton Ave</b>",
+                            "maneuver": "ramp-right",
+                            "polyline": {
+                                "points": "ixsbFjnggVLBF?F?HAPEZKvBw@l@S^MVINEDC\\IXGZGR?pADr@H|AR"
+                            },
+                            "start_location": {
+                                "lat": 37.2981341,
+                                "lng": -121.9403782
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "236 ft",
+                                "value": 72
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 10
+                            },
+                            "end_location": {
+                                "lat": 37.2943653,
+                                "lng": -121.9403004
+                            },
+                            "html_instructions": "Slight <b>right</b> onto the ramp to <b>Downtown</b>/<wbr/><b>Campbell</b>",
+                            "maneuver": "ramp-right",
+                            "polyline": {
+                                "points": "scsbFvjggVXL^JJLFPBNBLBJ"
+                            },
+                            "start_location": {
+                                "lat": 37.2948192,
+                                "lng": -121.9397984
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "223 ft",
+                                "value": 68
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 9
+                            },
+                            "end_location": {
+                                "lat": 37.2943641,
+                                "lng": -121.9410647
+                            },
+                            "html_instructions": "Merge onto <b>E Hamilton Ave</b>",
+                            "maneuver": "merge",
+                            "polyline": {
+                                "points": "y`sbFzmggV@n@?fB"
+                            },
+                            "start_location": {
+                                "lat": 37.2943653,
+                                "lng": -121.9403004
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.3 mi",
+                                "value": 411
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 55
+                            },
+                            "end_location": {
+                                "lat": 37.2979534,
+                                "lng": -121.9413758
+                            },
+                            "html_instructions": "Turn <b>right</b> onto <b>Almarida Dr</b>",
+                            "maneuver": "turn-right",
+                            "polyline": {
+                                "points": "w`sbFrrggVgAB_AB_@?Y@{C?oA?o@?aA?kA@KAKAE?OAC?C?GDIDIHEH?@IV"
+                            },
+                            "start_location": {
+                                "lat": 37.2943641,
+                                "lng": -121.9410647
+                            },
+                            "travel_mode": "DRIVING"
+                        },
+                        {
+                            "distance": {
+                                "text": "0.4 mi",
+                                "value": 600
+                            },
+                            "duration": {
+                                "text": "1 min",
+                                "value": 69
+                            },
+                            "end_location": {
+                                "lat": 37.3033179,
+                                "lng": -121.9413973
+                            },
+                            "html_instructions": "At the traffic circle, take the <b>1st</b> exit and stay on <b>Almarida Dr</b><div style=\"font-size:0.9em\">Destination will be on the right</div>",
+                            "maneuver": "roundabout-right",
+                            "polyline": {
+                                "points": "ewsbFrtggVAAA?A?A?A??@A??@A??@?@A??@?@eF?{M@cAISAOAeE?k@@A?A@A@"
+                            },
+                            "start_location": {
+                                "lat": 37.2979534,
+                                "lng": -121.9413758
+                            },
+                            "travel_mode": "DRIVING"
+                        }
+                    ],
+                    "traffic_speed_entry": [],
+                    "via_waypoint": []
+                }
+            ],
+            "overview_polyline": {
+                "points": "ezwbFvu`gV}EJ}ELIaGGoDEwBGi@UaA_CwEcBoDi@iA}@_BEIGa@AQBOF_@LKXBJ?JBTDRRz@p@t@l@tCrCxAnAj@b@n@@p@j@n@h@hA~@|BtBt@|@~@jA|AhCtAxCb@fAtD`K~AjEx@|Bf@dB`@hBVdBLrAHxAHtCEbCIfBMzA]|B]~AaChIy@nCq@hCUfAW`BY~BShDGfC?fBBzHDnP@rSGdEGjBG|Ac@hGOtBWZMnAY~DGnBQ|HG`Ai@zDQ~AAjAJfBHh@V~@Zv@Vd@n@v@b@^h@\\l@XfAVf@Hp@@`BCxBChGEbE?~AALIDEP?j@?fB?~F@vNDpG?lDAlMErLApBAbCGvAKzAU|@OTBPAl@Q|EcBlA[ZGdBDpC\\x@XR^F\\BJ@n@?fBgAB_BBuD@mG@m@EG?QJORIXAAA?C?CBCB?@?@aU@wAKuEAm@@CB"
+            },
+            "summary": "I-280 N",
+            "warnings": [],
+            "waypoint_order": []
+        }
+    ],
+    "status": "OK"
+}
